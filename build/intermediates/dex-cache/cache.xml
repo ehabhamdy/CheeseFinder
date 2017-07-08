@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_a5171a6f3cd6632e17de066a39c410df034258e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/141093c4373adfc4bc47dff102b168b8a1d2f5e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd117588f3bada783fa7407444f35c7146bc897c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4da2ab37cfeeae51ef9bd78c42aa3bcc9990fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/53313cfed139d4bb505c00812f003b275ab1a78a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b333987ac0b94d98f03c8f494ffc45c342fd4abf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/be04219ca7b054642696a232b0cff39ddf692d92/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1498c393bfff34076bb422b21ce48f67758b2779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_9f5f63a75dd20a0babd80562587da9dc3111720b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/4e44441f4bdc5e91200ee8dbe4c1242f645eecc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f745050a5c012082c1b7dfe6e811cf885fdb205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/be04219ca7b054642696a232b0cff39ddf692d92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a1fbc49af9a43099ac90e9489b179cd88dd914a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/7302d5864f05c1688892aa373ef32587a64f8cdb/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d166f7ee43aaa4af2778d0ca4cd70263eeca9281/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/e83cca955ce934e645131c54b4268e7499e3354a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_07d2e9a6ce175c3e23ac742c0e09a269d27919b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/0165857211cd960c8c888bc9ca974de69f0b516f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbc2f65f39e80d7e9eae005dbc0b4c3926457062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/ed5395906321d529badeea0fe58be5bef6acd6bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fb6b149dfd437e5c882b386d3b48ff1029e6e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/e83cca955ce934e645131c54b4268e7499e3354a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5bb0f16450bed626ed151b8219ff24432c1a07a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1724f6cb7715b979b8dad7a4983b2d2001c2bb2d">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55078a997b3ecc519bcd375d3b86ab220f3b4ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_0ed99be85ba6bb8accee4f55f2e596a00eab899e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/dedfc56a0e3be1b6956093a07917eb887c0b1c9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_266fa162afb6a13fc11f978a83eeb71de93620b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/f04e55d5358f52d8ed794f8d3ad12991d5cfc273/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_770783b28d0504d4ce4f0baa4575f8754dfde705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/45dae7720520f80c7760440f6467cf190cabdd70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b0b20b5625d095eaca2ffa5da9d87b9e773c49a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/f04e55d5358f52d8ed794f8d3ad12991d5cfc273/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39f6233b780e1f4896bc87f8d5415a9fb26a58a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/53313cfed139d4bb505c00812f003b275ab1a78a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5beae027b91f12dec0577b8cd3764e01e77107b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ehabhamdy/.android/build-cache/7302d5864f05c1688892aa373ef32587a64f8cdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ehabhamdy/StudioProjects/CheeseFinder-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de72d7a77c1100558063ab3c6bfd696f74c192e6/classes.dex" />
+    </item>
+
+</items>
